@@ -1,6 +1,6 @@
 # userscript for Tampermonkey / Greasemonkey
 
-javascript 'itch to t for auto inventory'<br />
+javascript 'itch to tw for auto inventory'<br />
 new name cause of Twitch site detection 'auto' 'claim' 'twitch' or something like that<br />
 <br />
 description:<br />
