@@ -9,7 +9,7 @@
 // @grant        none
 // ==/UserScript==
 
-const refminutes = 1; //refresh the inventory page every x minutes. default = 5
+const refminutes = 5; //refresh the inventory page every x minutes. default = 5
 const refseconds = 10; //try to hit claim after the refreshed page in x seconds. default = 10. choose 30-45 for slow computers, avoid go lower than 5.
 let buttonText = ['claim now', 'jetzt abholen', 'reclamar ahora', 'en profiter', 'riscuoti subito', 'kiváltás most!', 'claim nu', 'hent nå', 'odbierz teraz',
                   'resgatar agora', 'solicită acum', 'vyzdvihnúť teraz', 'lunasta nyt', 'hämta nu', 'nhận ngay', 'Şimdi Al', 'vyzvednout kořist', 'Διεκδίκηση τώρα',
