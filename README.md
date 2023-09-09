@@ -12,7 +12,7 @@ automatically claims drops on twitch in the background on the inventory page<br 
 • avoids dynamic element names at the twitch website<br />
 • multilingual, works for every language<br />
 • minimalistic, easy to customize<br />
-• low cpu and network usage<br />
+• low cpu and bandwith usage<br />
 <br />
 
 # usage
