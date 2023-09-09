@@ -26,4 +26,4 @@ const IdleTimer = setTimeout(function(){
 }, 10000);
 setInterval(function() {
     window.location.reload();
-}, 5*60100);
+}, 5*60250);
