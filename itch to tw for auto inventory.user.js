@@ -2,6 +2,7 @@
 // @name         itch to tw for auto inventory
 // @namespace    itchToTheTwforAutoInventory
 // @version      0.1
+// @license		 MIT
 // @description  'itch to tw for auto inventory' automatically hits claim on an inventory website 'itch to the tw' in the background in all languages
 // @author       DayXP
 // @match        https://www.twitch.tv/drops/inventory*
